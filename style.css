@@ -1,0 +1,7 @@
+html{scroll-behavior: smooth;}
+body{font:20px Montserrat,Sans-Serif;line-height:1.8; color:white;}
+p{font-size:20px;}
+.bg-1{background-color:chocolate; color: white;}
+.bg-2{background-color:black; color: white;}
+.bg-3{background-color:white; color: black;}
+.bg-4{background-color:blanchedalmond; color: black;}
