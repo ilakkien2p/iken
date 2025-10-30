@@ -5,3 +5,6 @@ p{font-size:20px;}
 .bg-2{background-color:black; color: white;}
 .bg-3{background-color:white; color: black;}
 .bg-4{background-color:blanchedalmond; color: black;}
+.carousel-inner img{width:100%;}
+.carousel-inner .carousel-item{height:500px;}
+
