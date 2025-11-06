@@ -6,5 +6,5 @@ p{font-size:20px;}
 .bg-3{background-color:white; color: black;}
 .bg-4{background-color:blanchedalmond; color: black;}
 .carousel-inner img{width:100%;}
-.carousel-inner .carousel-item{height:500px;}
-
+.carousel .carousel-item{height:500px;}
+.carousel-item img{position:absolute; object-fit:cover; top:0; left:500px; min-height:500px;}
